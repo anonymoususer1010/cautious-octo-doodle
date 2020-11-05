@@ -1,0 +1,696 @@
+"","Location","Cases","Deaths","Recovered"
+"1","World","47,706,992","1,218,208","31,731,901"
+"2","United States","9,527,328","236,721","5,636,531"
+"3","India","8,267,623","123,097","7,603,121"
+"4","Brazil","5,575,289","160,785","5,028,216"
+"5","Russia","1,693,454","29,217","1,266,931"
+"6","France","1,502,763","38,289","120,714"
+"7","Spain","1,284,408","38,118","No data"
+"8","Argentina","1,195,263","32,052","1,009,265"
+"9","Colombia","1,099,392","31,847","993,877"
+"10","United Kingdom","1,099,059","47,742","No data"
+"11","Mexico","938,405","92,593","693,227"
+"12","Peru","908,902","34,623","832,929"
+"13","Italy","790,377","39,764","307,378"
+"14","South Africa","730,548","19,585","660,185"
+"15","Iran","646,164","36,579","500,400"
+"16","Germany","577,131","10,883","371,432"
+"17","Chile","515,042","14,340","492,149"
+"18","Iraq","482,296","11,068","408,756"
+"19","Belgium","447,355","11,858","No data"
+"20","Poland","439,536","6,475","168,960"
+"21","Indonesia","421,731","14,259","353,282"
+"22","Ukraine","420,617","7,731","176,404"
+"23","Bangladesh","414,164","6,004","331,697"
+"24","Philippines","388,137","7,367","349,091"
+"25","Turkey","384,509","10,558","330,665"
+"26","Netherlands","375,890","7,576","No data"
+"27","Czech Republic","362,985","3,913","185,180"
+"28","Saudi Arabia","348,936","5,471","335,594"
+"29","Pakistan","337,573","6,867","316,060"
+"30","Israel","316,792","2,592","304,418"
+"31","Romania","267,088","7,419","186,280"
+"32","Canada","244,935","10,279","203,510"
+"33","Morocco","229,565","3,900","189,909"
+"34","Switzerland","182,203","2,202","83,400"
+"35","Nepal","182,923","1,034","144,978"
+"36","Ecuador","170,110","12,698","149,048"
+"37","Portugal","156,940","2,694","88,946"
+"38","Bolivia","141,936","8,751","112,526"
+"39","Sweden","137,730","5,997","No data"
+"40","United Arab Emirates","137,310","505","134,983"
+"41","Panama","135,592","2,731","113,379"
+"42","Qatar","133,370","232","130,414"
+"43","Kuwait","128,843","794","119,742"
+"44","Dominican Republic","127,848","2,252","105,982"
+"45","Austria","125,099","1,227","77,036"
+"46","Oman","116,847","1,275","106,903"
+"47","Kazakhstan","113,309","1,857","106,716"
+"48","Costa Rica","112,120","1,419","68,604"
+"49","Guatemala","108,483","3,748","98,658"
+"50","Egypt","108,122","6,305","99,765"
+"51","Japan","102,900","1,786","94,295"
+"52","Belarus","102,313","995","88,701"
+"53","Honduras","98,688","2,706","41,848"
+"54","Ethiopia","97,881","1,503","56,156"
+"55","Armenia","97,150","1,448","58,811"
+"56","Venezuela","93,100","810","87,941"
+"57","Jordan","91,234","1,029","No data"
+"58","Hungary","90,988","2,063","21,232"
+"59","China","86,087","4,634","81,061"
+"60","Lebanon","85,209","667","43,885"
+"61","Bahrain","82,363","324","79,680"
+"62","Moldova","78,507","1,851","58,292"
+"63","Uzbekistan","67,779","577","65,001"
+"64","Paraguay","64,628","1,441","44,523"
+"65","Tunisia","64,363","1,512","No data"
+"66","Libya","63,688","893","36,995"
+"67","Slovakia","63,556","235","14,257"
+"68","Nigeria","63,173","1,151","59,634"
+"69","Ireland","63,483","1,930","24,000"
+"70","Kyrgyzstan","60,774","1,163","51,815"
+"71","Bulgaria","60,537","1,412","21,544"
+"72","Azerbaijan","59,509","780","45,697"
+"73","Algeria","58,979","1,980","40,577"
+"74","Kenya","58,587","1,051","38,381"
+"75","Singapore","58,029","28","57,937"
+"76","Myanmar","56,940","1,330","40,778"
+"77","Croatia","56,567","654","41,070"
+"78","Bosnia and Herzegovina","55,598","1,358","29,389"
+"79","Palestine","55,408","501","47,744"
+"80","Serbiaa","53,495","850","No data"
+"81","Denmarkb","50,530","729","38,892"
+"82","Ghana","48,200","320","47,260"
+"83","Greece","46,892","673","No data"
+"84","Georgiac","44,522","362","28,633"
+"85","Afghanistan","41,814","1,548","34,362"
+"86","Slovenia","37,382","412","No data"
+"87","Puerto Rico","35,750","842","No data"
+"88","Malaysia","35,425","271","24,815"
+"89","North Macedonia","35,097","1,071","22,024"
+"90","El Salvador","34,015","987","29,788"
+"91","Australiad","27,608","907","25,356"
+"92","South Korea","26,925","474","24,616"
+"93","Albania","22,300","536","11,578"
+"94","Norwaye","22,282","282","11,863"
+"95","Cameroon","21,793","426","20,117"
+"96","Ivory Coast","20,753","126","20,410"
+"97","Kosovo","20,655","697","15,641"
+"98","Luxembourg","19,634","167","10,825"
+"99","Montenegro","19,977","322","14,635"
+"100","Lithuania","18,092","182","5,082"
+"101","Madagascar","16,968","244","16,301"
+"102","Finlandf","16,630","359","11,300"
+"103","Zambia","16,543","349","15,733"
+"104","Senegal","15,637","325","15,059"
+"105","Sudan","13,866","837","6,764"
+"106","Mozambique","13,130","94","10,439"
+"107","Namibia","13,012","133","11,201"
+"108","Uganda","12,971","114","7,556"
+"109","Guinea","12,213","73","10,600"
+"110","Sri Lanka","12,187","24","5,858"
+"111","Maldives","11,796","38","10,962"
+"112","Angola","11,577","291","5,230"
+"113","DR Congog","11,395","308","10,768"
+"114","Tajikistan","11,139","83","10,389"
+"115","Jamaica","9,296","214","4,666"
+"116","Haiti","9,057","232","7,429"
+"117","Gabon","8,984","55","8,779"
+"118","Cape Verde","8,944","95","8,155"
+"119","French Polynesia","8,646","38","4,780"
+"120","Zimbabwe","8,389","245","7,939"
+"121","Mauritania","7,725","163","7,443"
+"122","Donetsk PRh","7,070","600","3,517"
+"123","Cubai","7,035","129","6,374"
+"124","Bahamasj","6,735","146","4,493"
+"125","Malta","6,590","65","4,672"
+"126","Latvia","6,268","77","1,406"
+"127","Malawi","5,933","184","5,323"
+"128","Eswatini","5,929","117","5,657"
+"129","Syriak","5,888","298","2,100"
+"130","Trinidad and Tobago","5,754","110","4,929"
+"131","Djibouti","5,573","61","5,460"
+"132","Nicaragua","5,514","156","4,225"
+"133","Hong Kong","5,349","106","5,118"
+"134","Estonia","5,333","73","3,954"
+"135","Congol","5,290","92","3,887"
+"136","Botswanam","5,285","24","4,676"
+"137","Suriname","5,218","111","5,087"
+"138","Rwanda","5,155","35","4,922"
+"139","Equatorial Guinea","5,089","83","4,965"
+"140","Iceland","4,989","17","4,174"
+"141","Cyprusn","4,934","27","1,882"
+"142","Andorra","4,910","75","3,627"
+"143","Central African Republic","4,866","62","1,924"
+"144","Guamo","4,690","79","2,666"
+"145","Aruba","4,553","39","4,348"
+"146","Guyana","4,245","128","3,320"
+"147","Somaliap","3,941","104","3,185"
+"148","Thailand","3,804","59","3,612"
+"149","The Gambia","3,672","119","3,196"
+"150","Belize","3,577","59","2,207"
+"151","Mali","3,565","136","2,758"
+"152","Uruguayq","3,196","61","2,727"
+"153","South Sudan","2,926","59","1,290"
+"154","Benin","2,683","41","2,455"
+"155","Abkhaziar","2,579","27","1,167"
+"156","Burkina Faso","2,500","67","2,250"
+"157","Guinea-Bissau","2,413","41","1,818"
+"158","Sierra Leone","2,368","74","1,803"
+"159","Togo","2,364","57","1,681"
+"160","Yemen","2,063","600","1,366"
+"161","Lesotho","1,953","44","975"
+"162","New Zealand","1,612","25","1,512"
+"163","Luhansk PRh","1,587","73","1,254"
+"164","Chad","1,498","98","1,324"
+"165","Liberia","1,426","82","1,279"
+"166","U.S. Virgin Islands","1,376","21","1,320"
+"167","Niger","1,222","69","1,141"
+"168","Vietnam","1,206","35","1,069"
+"169","USS Theodore Roosevelto","1,102","1","751"
+"170","Charles de Gaulles","1,081","0","0"
+"171","Somalilandt","1,077","36","978"
+"172","Curaçao","1,021","2","746"
+"173","São Tomé and Príncipe","949","16","904"
+"174","Northern Cyprusu","945","5","878"
+"175","San Marino","928","42","721"
+"176","Sint Maarten","859","22","768"
+"177","Gibraltar","730","0","638"
+"178","Diamond Princess","712","14","653"
+"179","Turks and Caicos Islands","704","6","691"
+"180","Liechtenstein","631","3","379"
+"181","Jersey","608","32","503"
+"182","Papua New Guinea","590","7","575"
+"183","Burundi","589","1","511"
+"184","Taiwanv","568","7","521"
+"185","Comoros","554","7","517"
+"186","Faroe Islands","495","0","490"
+"187","Eritrea","480","0","426"
+"188","Mauritius","451","10","413"
+"189","Artsakhw","404","2","337"
+"190","Monaco","366","2","274"
+"191","Bhutan","358","0","327"
+"192","Isle of Manx","356","24","324"
+"193","Mongolia","340","0","312"
+"194","Cambodia","292","0","283"
+"195","Guernsey","272","13","246"
+"196","Cayman Islands","240","1","221"
+"197","Barbados","238","7","222"
+"198","Bermuda","206","9","176"
+"199","Seychelles","153","0","149"
+"200","Costa Atlantica","148","0","148"
+"201","Brunei","148","3","143"
+"202","Bonaire","134","3","126"
+"203","Greg Mortimerq","128","1","No data"
+"204","Antigua and Barbuda","128","3","117"
+"205","Northern Mariana Islands","96","2","19"
+"206","South Ossetiay","90","0","90"
+"207","Saint Lucia","84","0","28"
+"208","Saint Vincentz","75","0","71"
+"209","British Virgin Islands","71","1","70"
+"210","Dominica","50","0","33"
+"211","Macau","46","0","46"
+"212","Fiji","34","2","31"
+"213","East Timor","30","0","29"
+"214","Sahrawi Arab DRa","28","2","26"
+"215","Grenada","28","0","24"
+"216","New Caledonia","28","0","28"
+"217","Vatican City","27","0","15"
+"218","Laos","24","0","22"
+"219","Saint Kitts and Nevis","19","0","19"
+"220","Greenland","17","0","16"
+"221","Saint Pierre and Miquelon","16","0","12"
+"222","Sint Eustatius","14","0","4"
+"223","Falkland Islands","13","0","13"
+"224","Montserrat","13","1","12"
+"225","MS Zaandamb","13","4","No data"
+"226","Solomon Islands","13","0","4"
+"227","Coral Princessc","12","3","No data"
+"228","HNLMS Dolfijnd","8","0","8"
+"229","Saba","5","0","5"
+"230","Anguilla","3","0","3"
+"231","Marshall Islands","2","0","0"
+"232","Wallis and Futuna","1","0","1"
+"233","Tanzaniae","No data","No data","No data"
+"234","As of 4 November 2020 (UTC) · History of cases · History of deaths","As of 4 November 2020 (UTC) · History of cases · History of deaths","As of 4 November 2020 (UTC) · History of cases · History of deaths","As of 4 November 2020 (UTC) · History of cases · History of deaths"
+"235","Notes
+^ Location: Countries, territories, and international conveyances where cases were diagnosed. The nationality of the infected and the origin of infection may vary. For some countries, cases are split into respective territories and noted accordingly.
+
+^ Cases: This number shows the cumulative number of confirmed human cases reported to date. The actual number of infections and cases is likely to be higher than reported. Reporting criteria and testing capacity vary between locations.
+
+^ Deaths: Reporting criteria vary between locations.
+
+^ Recoveries: May not correspond to actual current figures and not all recoveries may be reported. Reporting criteria vary between locations and some countries do not report recoveries.
+
+^ The worldwide totals for cases, deaths and recoveries are taken from the Johns Hopkins University Coronavirus Resource Center. They are not sums of the figures for the listed countries and territories.
+
+^ United StatesFigures include cases identified on the Grand Princess.Figures do not include the unincorporated territories of Puerto Rico, Guam, Northern Marian Islands, and U.S Virgin Islands, all of which are listed separately.Not all states or overseas territories report recovery data.Cases include clinically diagnosed cases as per CDC guidelines.Recoveries and deaths include probable deaths and people released from quarantine as per CDC guidelines.01Figures from the United States Department of Defense are only released on a branch-by branch basis since April 2020, without distinction between domestic and foreign deployment, and cases may be reported to local health authorities.2Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separate from national figures but included in the Navy's totals.There is also one case reported from Guantanamo Bay Naval Base not included in any other nation or territory's counts.3 Since April 2020, the United States Department of Defense has directed all bases, including Guantanamo Bay, to not publish case statistics.2
+
+^ RussiaIncluding cases from the disputed Crimea and Sevastopol.Excluding cases from the Diamond Princess cruise ship, which are classified as ""on an international conveyance"".
+
+^ FranceIncluding overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and collectivities of Saint Barthélemy and Saint Martin.Excluding collectivities of New Caledonia, French Polynesia, Saint Pierre and Miquelon and Wallis and Futuna.Recoveries only include hospitalized cases.9Figures for total confirmed cases and total deaths include data from both hospital and nursing home (ESMS: établissements sociaux et médico-sociaux).9
+
+^ SpainThe figure for cases excludes serology–confirmed cases.As of 19 May 2020, the Spanish government does not publish the number of recoveries. The last update on 18 May reported 150,376 recovered patients.
+
+^ ArgentinaExcluding confirmed cases on the claimed territory of the Falkland Islands. Since 11 April, the Argentine Ministry of Health includes them in their official reports.2
+
+^ United KingdomExcluding all British Overseas Territories and Crown dependencies.As of 23 March 2020, the UK government does not publish the number of recoveries. The last update on 22 March reported 135 recovered patients.5
+
+^ GermanyNot all state authorities count recoveries.4Recoveries include estimations by the Robert Koch Institute.45
+
+^ Chile Including the special territory of Easter Island.The Chilean Ministry of Health considered all cases as ""recovered"" after 14 days since the initial symptoms of the virus, no matter the health situation of the infected or if following tests indicate the continuing presence of the virus. The only exception were casualties, which are not included as recovered.6Deaths only include cases with positive PCR tests and catalogued as ""COVID-19 related death"" by the Civil Registry and Identification Service. This number is informed on the daily reports of the Ministry of Health. A report with the total number of deaths, including suspected cases without PCR test, is released weekly since 20 June 2020.7 In the latest report (16 October 2020), the number of total deaths is 18,248.8
+
+^ BelgiumThe number of deaths also includes untested cases and cases in retirement homes that presumably died because of COVID-19, whilst most countries only include deaths of tested cases in hospitals.1
+
+^ UkraineExcluding cases from the disputed Crimea and Sevastopol. Cases in these territories are included in the Russian total.Excluding cases from the unrecognized Donetsk and Lugansk People's Republics.
+
+^ TurkeySince 29 July, the Ministry of Health has not been publishing the total number of positive cases. Instead, symptomatic coronavirus cases have been being shown as ""patients"".2
+
+^ NetherlandsThe Kingdom of the Netherlands consists of a) the Netherlands* he country as opposed to the kingdom; listed here, which in turn includes the Caribbean Netherlands, that are made up of the special municipalities Bonaire*, Saba* and Sint Eustatius*; b) Aruba*; c) Curaçao*; and d) Sint Maarten*. All regions marked with an asterisk are listed separately.The Dutch Government agency RIVM, responsible for the constituent country the Netherlands, does not count its number of recoveries.4
+
+^ IsraelIncluding cases from the disputed Golan Heights.Excluding cases from the Occupied Palestinian Territories.
+
+^ Canada On 17 July 2020, Quebec, Canada, revised its criteria on recoveries. The Institut national de santé publique claims that ""the previous method resulted in 'significant underestimations' of recovered cases.""3 This change resulted in a drop of active cases nationwide, from a total of 27,603 on 16 July to 4,058 on 17 July.4
+
+^ MoroccoIncluding cases in the disputed Western Sahara territory controlled by Morocco.Excluding the de facto state of the Sahrawi Arab Democratic Republic.
+
+^ SwitzerlandRecoveries are estimates by the Tribune de Genève.
+
+^ EgyptIncludes cases identified on the MS River Anuket.
+
+^ a b Diamond Princess and JapanThe British cruise ship Diamond Princess was in Japanese waters, and the Japanese administration was asked to manage its quarantine, with the passengers having not entered Japan. Therefore, this case is included in neither the Japanese nor British official counts. The World Health Organization classifies the cases as being located ""on an international conveyance"".
+
+^ ChinaExcluding 828 asymptomatic cases under medical observation as of 3 November 2020pdate.Asymptomatic cases were not reported before 31 March 2020.Excluding Special Administrative Regions of Hong Kong and Macau.
+
+^ MoldovaIncluding the disputed territory of Transnistria.
+
+^ AzerbaijanExcluding the self-declared state of Artsakh.
+
+^ SerbiaExcluding cases from the disputed territory of Kosovo.
+
+^ DenmarkThe autonomous territories of the Faroe Islands and Greenland are listed separately.
+
+^ GeorgiaExcluding the de facto states of Abkhazia and South Ossetia.
+
+^ AustraliaExcluding the cases from Diamond Princess cruise ship which are classified as ""on an international conveyance"". Ten cases, including one fatality recorded by the Australian government.
+
+^ NorwayEstimation of the number of infected:As of 23 March 2020, according to figures from just over 40 per cent of all GPs in Norway, 20,200 patients have been registered with the ""corona code"" R991. The figure includes both cases where the patient has been diagnosed with coronavirus infection through testing, and where the GP has used the ""corona code"" after assessing the patient's symptoms against the criteria by the Norwegian Institute of Public Health.44
+As of 24 March 2020, the Norwegian Institute of Public Health estimates that between 7,120 and 23,140 Norwegians are infected with the coronavirus.45
+
+
+^ FinlandIncluding the autonomous region of the Åland Islands.The number of recoveries is an estimate based on reported cases which were reported at least two weeks ago and there is no other monitoring data on the course of the disease.57 The exact number of recoveries is not known, as only a small proportion of patients have been hospitalized.58
+
+^ DR CongoThe Democratic Republic of the Congo.
+
+^ a b Donetsk and Luhansk People's RepublicNote that these territories are distinct from the Ukraine-administered regions of the Donetsk and Luhansk Oblasts.
+
+^ CubaIncludes cases on the MS Braemar.Excluding cases from Guantanamo Bay, which is governed by the United States.
+
+^ BahamasSome of these deaths may still be under investigation as stated in the Ministry's press release.
+
+^ SyriaExcluding cases from the disputed Golan Heights.
+
+^ CongoAlso known as the Republic of the Congo and not to be confused with the DR Congo.
+
+^ Botswana1,357 people who tested positive have been voluntarily repatriated to their respective countries and are not part of the confirmed case count as a result the Government of Botswana does not include the transferred-out cases.05
+
+^ CyprusIncluding the British Overseas Territory of Akrotiri and Dhekelia.Excluding de facto state of Northern Cyprus.
+
+^ a b Guam and USS Theodore Roosevelt Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separately.
+
+^ SomaliaExcluding the de facto state of Somaliland.
+
+^ a b Greg Mortimer and UruguayAlthough currently anchored off the coast of Uruguay, cases for the Greg Mortimer are currently reported separately. Six have been transferred inland for hospitalization.
+
+^ AbkhaziaCases from this de facto state are not counted by Georgia.
+
+^ Charles de GaulleIncluding cases on the escort frigate Chevalier Paul.Florence Parly, Minister of the Armed Forces, reported to the National Assembly's National Defense and Armed Forces Committee r that 2010 sailors of the carrier battle group led by Charles de Gaulle had been tested, with 1081 tests returning positive so far.50  Many of these cases were aboard Charles de Gaulle, some of the cases were reportedly aboard French frigate Chevalier Paul, and it is unclear if any other ships in the battle group had cases on board.515253
+
+^ SomalilandCases from this de facto state are not counted by Somalia.
+
+^ Northern CyprusCases from this de facto state are not counted by Cyprus.
+
+^ Taiwan1. Including cases from the ROCS Pan Shi.69
+
+^ ArtsakhCases from this de facto state are not counted by Azerbaijan.
+
+^ Isle of ManRecoveries are presumed. Defined as ""An individual testing positive for coronavirus who completes the 14 day self-isolation period from the onset of symptoms who is at home on day 15, or an individual who is discharged from hospital following more severe symptoms.""79
+
+^ South OssetiaCases from this de facto state are not counted by Georgia.
+
+^ Saint VincentThe sovereign state of Saint Vincent and the Grenadines.
+
+^ Sahrawi Arab Democratic RepublicCases from this de facto state are not counted by Morocco.
+
+^ MS ZaandamIncluding cases from MS Rotterdam.The MS Rotterdam rendezvoused with the Zaandam on 26 March off the coast of Panama City to provide support and evacuate healthy passengers. Both have since docked in Florida.2425MS Zaandam and Rotterdam's numbers are currently not counted in any national figures.
+
+^ Coral PrincessThe cruise ship Coral Princess has tested positive cases since early April 2020 and has since docked in Miami.29Coral Princess's numbers are currently not counted in any national figures.
+
+^ HNLMS Dolfijn All 8 cases currently associated with Dolfijn were reported while the submarine was at sea in the waters between Scotland and the Netherlands.31It is unclear whether the National Institute for Public Health and the Environment (RIVM) is including these cases in their total count, but neither their daily update details nor their daily epidemiological situation reports appear to have mentioned the ship, with a breakdown of cases listing the twelve provinces of the country of the Netherlands (as opposed to the kingdom) accounting for all the cases in the total count.3233
+
+^ TanzaniaFigures for Tanzania are ""No data"" as the country stopped publishing figures on coronavirus cases on 29 April.39 Figures as of that date were 509 cases, 21 deaths, and 183 recoveries.4041","Notes
+^ Location: Countries, territories, and international conveyances where cases were diagnosed. The nationality of the infected and the origin of infection may vary. For some countries, cases are split into respective territories and noted accordingly.
+
+^ Cases: This number shows the cumulative number of confirmed human cases reported to date. The actual number of infections and cases is likely to be higher than reported.[7] Reporting criteria and testing capacity vary between locations.
+
+^ Deaths: Reporting criteria vary between locations.
+
+^ Recoveries: May not correspond to actual current figures and not all recoveries may be reported. Reporting criteria vary between locations and some countries do not report recoveries.
+
+^ The worldwide totals for cases, deaths and recoveries are taken from the Johns Hopkins University Coronavirus Resource Center. They are not sums of the figures for the listed countries and territories.
+
+^ United StatesFigures include cases identified on the Grand Princess.Figures do not include the unincorporated territories of Puerto Rico, Guam, Northern Marian Islands, and U.S Virgin Islands, all of which are listed separately.Not all states or overseas territories report recovery data.Cases include clinically diagnosed cases as per CDC guidelines.[8]Recoveries and deaths include probable deaths and people released from quarantine as per CDC guidelines.[9][10][11]Figures from the United States Department of Defense are only released on a branch-by branch basis since April 2020, without distinction between domestic and foreign deployment, and cases may be reported to local health authorities.[12]Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separate from national figures but included in the Navy's totals.There is also one case reported from Guantanamo Bay Naval Base not included in any other nation or territory's counts.[13] Since April 2020, the United States Department of Defense has directed all bases, including Guantanamo Bay, to not publish case statistics.[12]
+
+^ RussiaIncluding cases from the disputed Crimea and Sevastopol.Excluding cases from the Diamond Princess cruise ship, which are classified as ""on an international conveyance"".
+
+^ FranceIncluding overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and collectivities of Saint Barthélemy and Saint Martin.Excluding collectivities of New Caledonia, French Polynesia, Saint Pierre and Miquelon and Wallis and Futuna.Recoveries only include hospitalized cases.[19]Figures for total confirmed cases and total deaths include data from both hospital and nursing home (ESMS: établissements sociaux et médico-sociaux).[19]
+
+^ SpainThe figure for cases excludes serology–confirmed cases.As of 19 May 2020, the Spanish government does not publish the number of recoveries. The last update on 18 May reported 150,376 recovered patients.
+
+^ ArgentinaExcluding confirmed cases on the claimed territory of the Falkland Islands. Since 11 April, the Argentine Ministry of Health includes them in their official reports.[22]
+
+^ United KingdomExcluding all British Overseas Territories and Crown dependencies.As of 23 March 2020, the UK government does not publish the number of recoveries. The last update on 22 March reported 135 recovered patients.[25]
+
+^ GermanyNot all state authorities count recoveries.[34]Recoveries include estimations by the Robert Koch Institute.[34][35]
+
+^ Chile Including the special territory of Easter Island.The Chilean Ministry of Health considered all cases as ""recovered"" after 14 days since the initial symptoms of the virus, no matter the health situation of the infected or if following tests indicate the continuing presence of the virus. The only exception were casualties, which are not included as recovered.[36]Deaths only include cases with positive PCR tests and catalogued as ""COVID-19 related death"" by the Civil Registry and Identification Service. This number is informed on the daily reports of the Ministry of Health. A report with the total number of deaths, including suspected cases without PCR test, is released weekly since 20 June 2020.[37] In the latest report (16 October 2020), the number of total deaths is 18,248.[38]
+
+^ BelgiumThe number of deaths also includes untested cases and cases in retirement homes that presumably died because of COVID-19, whilst most countries only include deaths of tested cases in hospitals.[41]
+
+^ UkraineExcluding cases from the disputed Crimea and Sevastopol. Cases in these territories are included in the Russian total.Excluding cases from the unrecognized Donetsk and Lugansk People's Republics.
+
+^ TurkeySince 29 July, the Ministry of Health has not been publishing the total number of positive cases. Instead, symptomatic coronavirus cases have been being shown as ""patients"".[52]
+
+^ NetherlandsThe Kingdom of the Netherlands consists of a) the Netherlands* [the country as opposed to the kingdom; listed here], which in turn includes the Caribbean Netherlands, that are made up of the special municipalities Bonaire*, Saba* and Sint Eustatius*; b) Aruba*; c) Curaçao*; and d) Sint Maarten*. All regions marked with an asterisk are listed separately.The Dutch Government agency RIVM, responsible for the constituent country the Netherlands, does not count its number of recoveries.[54]
+
+^ IsraelIncluding cases from the disputed Golan Heights.Excluding cases from the Occupied Palestinian Territories.
+
+^ Canada On 17 July 2020, Quebec, Canada, revised its criteria on recoveries. The Institut national de santé publique claims that ""the previous method resulted in 'significant underestimations' of recovered cases.""[63] This change resulted in a drop of active cases nationwide, from a total of 27,603 on 16 July to 4,058 on 17 July.[64]
+
+^ MoroccoIncluding cases in the disputed Western Sahara territory controlled by Morocco.Excluding the de facto state of the Sahrawi Arab Democratic Republic.
+
+^ SwitzerlandRecoveries are estimates by the Tribune de Genève.
+
+^ EgyptIncludes cases identified on the MS River Anuket.
+
+^ a b Diamond Princess and JapanThe British cruise ship Diamond Princess was in Japanese waters, and the Japanese administration was asked to manage its quarantine, with the passengers having not entered Japan. Therefore, this case is included in neither the Japanese nor British official counts. The World Health Organization classifies the cases as being located ""on an international conveyance"".
+
+^ ChinaExcluding 828 asymptomatic cases under medical observation as of 3 November 2020[update].Asymptomatic cases were not reported before 31 March 2020.Excluding Special Administrative Regions of Hong Kong and Macau.
+
+^ MoldovaIncluding the disputed territory of Transnistria.
+
+^ AzerbaijanExcluding the self-declared state of Artsakh.
+
+^ SerbiaExcluding cases from the disputed territory of Kosovo.
+
+^ DenmarkThe autonomous territories of the Faroe Islands and Greenland are listed separately.
+
+^ GeorgiaExcluding the de facto states of Abkhazia and South Ossetia.
+
+^ AustraliaExcluding the cases from Diamond Princess cruise ship which are classified as ""on an international conveyance"". Ten cases, including one fatality recorded by the Australian government.
+
+^ NorwayEstimation of the number of infected:As of 23 March 2020, according to figures from just over 40 per cent of all GPs in Norway, 20,200 patients have been registered with the ""corona code"" R991. The figure includes both cases where the patient has been diagnosed with coronavirus infection through testing, and where the GP has used the ""corona code"" after assessing the patient's symptoms against the criteria by the Norwegian Institute of Public Health.[144]
+As of 24 March 2020, the Norwegian Institute of Public Health estimates that between 7,120 and 23,140 Norwegians are infected with the coronavirus.[145]
+
+
+^ FinlandIncluding the autonomous region of the Åland Islands.The number of recoveries is an estimate based on reported cases which were reported at least two weeks ago and there is no other monitoring data on the course of the disease.[157] The exact number of recoveries is not known, as only a small proportion of patients have been hospitalized.[158]
+
+^ DR CongoThe Democratic Republic of the Congo.
+
+^ a b Donetsk and Luhansk People's RepublicNote that these territories are distinct from the Ukraine-administered regions of the Donetsk and Luhansk Oblasts.
+
+^ CubaIncludes cases on the MS Braemar.Excluding cases from Guantanamo Bay, which is governed by the United States.
+
+^ BahamasSome of these deaths may still be under investigation as stated in the Ministry's press release.
+
+^ SyriaExcluding cases from the disputed Golan Heights.
+
+^ CongoAlso known as the Republic of the Congo and not to be confused with the DR Congo.
+
+^ Botswana1,357 people who tested positive have been voluntarily repatriated to their respective countries and are not part of the confirmed case count as a result the Government of Botswana does not include the transferred-out cases.[205]
+
+^ CyprusIncluding the British Overseas Territory of Akrotiri and Dhekelia.Excluding de facto state of Northern Cyprus.
+
+^ a b Guam and USS Theodore Roosevelt Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separately.
+
+^ SomaliaExcluding the de facto state of Somaliland.
+
+^ a b Greg Mortimer and UruguayAlthough currently anchored off the coast of Uruguay, cases for the Greg Mortimer are currently reported separately. Six have been transferred inland for hospitalization.
+
+^ AbkhaziaCases from this de facto state are not counted by Georgia.
+
+^ Charles de GaulleIncluding cases on the escort frigate Chevalier Paul.Florence Parly, Minister of the Armed Forces, reported to the National Assembly's National Defense and Armed Forces Committee [fr] that 2010 sailors of the carrier battle group led by Charles de Gaulle had been tested, with 1081 tests returning positive so far.[250]  Many of these cases were aboard Charles de Gaulle, some of the cases were reportedly aboard French frigate Chevalier Paul, and it is unclear if any other ships in the battle group had cases on board.[251][252][253]
+
+^ SomalilandCases from this de facto state are not counted by Somalia.
+
+^ Northern CyprusCases from this de facto state are not counted by Cyprus.
+
+^ Taiwan1. Including cases from the ROCS Pan Shi.[269]
+
+^ ArtsakhCases from this de facto state are not counted by Azerbaijan.
+
+^ Isle of ManRecoveries are presumed. Defined as ""An individual testing positive for coronavirus who completes the 14 day self-isolation period from the onset of symptoms who is at home on day 15, or an individual who is discharged from hospital following more severe symptoms.""[279]
+
+^ South OssetiaCases from this de facto state are not counted by Georgia.
+
+^ Saint VincentThe sovereign state of Saint Vincent and the Grenadines.
+
+^ Sahrawi Arab Democratic RepublicCases from this de facto state are not counted by Morocco.
+
+^ MS ZaandamIncluding cases from MS Rotterdam.The MS Rotterdam rendezvoused with the Zaandam on 26 March off the coast of Panama City to provide support and evacuate healthy passengers. Both have since docked in Florida.[324][325]MS Zaandam and Rotterdam's numbers are currently not counted in any national figures.
+
+^ Coral PrincessThe cruise ship Coral Princess has tested positive cases since early April 2020 and has since docked in Miami.[329]Coral Princess's numbers are currently not counted in any national figures.
+
+^ HNLMS Dolfijn All 8 cases currently associated with Dolfijn were reported while the submarine was at sea in the waters between Scotland and the Netherlands.[331]It is unclear whether the National Institute for Public Health and the Environment (RIVM) is including these cases in their total count, but neither their daily update details nor their daily epidemiological situation reports appear to have mentioned the ship, with a breakdown of cases listing the twelve provinces of the country of the Netherlands (as opposed to the kingdom) accounting for all the cases in the total count.[332][333]
+
+^ TanzaniaFigures for Tanzania are ""No data"" as the country stopped publishing figures on coronavirus cases on 29 April.[339] Figures as of that date were 509 cases, 21 deaths, and 183 recoveries.[340][341]","Notes
+^ Location: Countries, territories, and international conveyances where cases were diagnosed. The nationality of the infected and the origin of infection may vary. For some countries, cases are split into respective territories and noted accordingly.
+
+^ Cases: This number shows the cumulative number of confirmed human cases reported to date. The actual number of infections and cases is likely to be higher than reported.[7] Reporting criteria and testing capacity vary between locations.
+
+^ Deaths: Reporting criteria vary between locations.
+
+^ Recoveries: May not correspond to actual current figures and not all recoveries may be reported. Reporting criteria vary between locations and some countries do not report recoveries.
+
+^ The worldwide totals for cases, deaths and recoveries are taken from the Johns Hopkins University Coronavirus Resource Center. They are not sums of the figures for the listed countries and territories.
+
+^ United StatesFigures include cases identified on the Grand Princess.Figures do not include the unincorporated territories of Puerto Rico, Guam, Northern Marian Islands, and U.S Virgin Islands, all of which are listed separately.Not all states or overseas territories report recovery data.Cases include clinically diagnosed cases as per CDC guidelines.[8]Recoveries and deaths include probable deaths and people released from quarantine as per CDC guidelines.[9][10][11]Figures from the United States Department of Defense are only released on a branch-by branch basis since April 2020, without distinction between domestic and foreign deployment, and cases may be reported to local health authorities.[12]Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separate from national figures but included in the Navy's totals.There is also one case reported from Guantanamo Bay Naval Base not included in any other nation or territory's counts.[13] Since April 2020, the United States Department of Defense has directed all bases, including Guantanamo Bay, to not publish case statistics.[12]
+
+^ RussiaIncluding cases from the disputed Crimea and Sevastopol.Excluding cases from the Diamond Princess cruise ship, which are classified as ""on an international conveyance"".
+
+^ FranceIncluding overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and collectivities of Saint Barthélemy and Saint Martin.Excluding collectivities of New Caledonia, French Polynesia, Saint Pierre and Miquelon and Wallis and Futuna.Recoveries only include hospitalized cases.[19]Figures for total confirmed cases and total deaths include data from both hospital and nursing home (ESMS: établissements sociaux et médico-sociaux).[19]
+
+^ SpainThe figure for cases excludes serology–confirmed cases.As of 19 May 2020, the Spanish government does not publish the number of recoveries. The last update on 18 May reported 150,376 recovered patients.
+
+^ ArgentinaExcluding confirmed cases on the claimed territory of the Falkland Islands. Since 11 April, the Argentine Ministry of Health includes them in their official reports.[22]
+
+^ United KingdomExcluding all British Overseas Territories and Crown dependencies.As of 23 March 2020, the UK government does not publish the number of recoveries. The last update on 22 March reported 135 recovered patients.[25]
+
+^ GermanyNot all state authorities count recoveries.[34]Recoveries include estimations by the Robert Koch Institute.[34][35]
+
+^ Chile Including the special territory of Easter Island.The Chilean Ministry of Health considered all cases as ""recovered"" after 14 days since the initial symptoms of the virus, no matter the health situation of the infected or if following tests indicate the continuing presence of the virus. The only exception were casualties, which are not included as recovered.[36]Deaths only include cases with positive PCR tests and catalogued as ""COVID-19 related death"" by the Civil Registry and Identification Service. This number is informed on the daily reports of the Ministry of Health. A report with the total number of deaths, including suspected cases without PCR test, is released weekly since 20 June 2020.[37] In the latest report (16 October 2020), the number of total deaths is 18,248.[38]
+
+^ BelgiumThe number of deaths also includes untested cases and cases in retirement homes that presumably died because of COVID-19, whilst most countries only include deaths of tested cases in hospitals.[41]
+
+^ UkraineExcluding cases from the disputed Crimea and Sevastopol. Cases in these territories are included in the Russian total.Excluding cases from the unrecognized Donetsk and Lugansk People's Republics.
+
+^ TurkeySince 29 July, the Ministry of Health has not been publishing the total number of positive cases. Instead, symptomatic coronavirus cases have been being shown as ""patients"".[52]
+
+^ NetherlandsThe Kingdom of the Netherlands consists of a) the Netherlands* [the country as opposed to the kingdom; listed here], which in turn includes the Caribbean Netherlands, that are made up of the special municipalities Bonaire*, Saba* and Sint Eustatius*; b) Aruba*; c) Curaçao*; and d) Sint Maarten*. All regions marked with an asterisk are listed separately.The Dutch Government agency RIVM, responsible for the constituent country the Netherlands, does not count its number of recoveries.[54]
+
+^ IsraelIncluding cases from the disputed Golan Heights.Excluding cases from the Occupied Palestinian Territories.
+
+^ Canada On 17 July 2020, Quebec, Canada, revised its criteria on recoveries. The Institut national de santé publique claims that ""the previous method resulted in 'significant underestimations' of recovered cases.""[63] This change resulted in a drop of active cases nationwide, from a total of 27,603 on 16 July to 4,058 on 17 July.[64]
+
+^ MoroccoIncluding cases in the disputed Western Sahara territory controlled by Morocco.Excluding the de facto state of the Sahrawi Arab Democratic Republic.
+
+^ SwitzerlandRecoveries are estimates by the Tribune de Genève.
+
+^ EgyptIncludes cases identified on the MS River Anuket.
+
+^ a b Diamond Princess and JapanThe British cruise ship Diamond Princess was in Japanese waters, and the Japanese administration was asked to manage its quarantine, with the passengers having not entered Japan. Therefore, this case is included in neither the Japanese nor British official counts. The World Health Organization classifies the cases as being located ""on an international conveyance"".
+
+^ ChinaExcluding 828 asymptomatic cases under medical observation as of 3 November 2020[update].Asymptomatic cases were not reported before 31 March 2020.Excluding Special Administrative Regions of Hong Kong and Macau.
+
+^ MoldovaIncluding the disputed territory of Transnistria.
+
+^ AzerbaijanExcluding the self-declared state of Artsakh.
+
+^ SerbiaExcluding cases from the disputed territory of Kosovo.
+
+^ DenmarkThe autonomous territories of the Faroe Islands and Greenland are listed separately.
+
+^ GeorgiaExcluding the de facto states of Abkhazia and South Ossetia.
+
+^ AustraliaExcluding the cases from Diamond Princess cruise ship which are classified as ""on an international conveyance"". Ten cases, including one fatality recorded by the Australian government.
+
+^ NorwayEstimation of the number of infected:As of 23 March 2020, according to figures from just over 40 per cent of all GPs in Norway, 20,200 patients have been registered with the ""corona code"" R991. The figure includes both cases where the patient has been diagnosed with coronavirus infection through testing, and where the GP has used the ""corona code"" after assessing the patient's symptoms against the criteria by the Norwegian Institute of Public Health.[144]
+As of 24 March 2020, the Norwegian Institute of Public Health estimates that between 7,120 and 23,140 Norwegians are infected with the coronavirus.[145]
+
+
+^ FinlandIncluding the autonomous region of the Åland Islands.The number of recoveries is an estimate based on reported cases which were reported at least two weeks ago and there is no other monitoring data on the course of the disease.[157] The exact number of recoveries is not known, as only a small proportion of patients have been hospitalized.[158]
+
+^ DR CongoThe Democratic Republic of the Congo.
+
+^ a b Donetsk and Luhansk People's RepublicNote that these territories are distinct from the Ukraine-administered regions of the Donetsk and Luhansk Oblasts.
+
+^ CubaIncludes cases on the MS Braemar.Excluding cases from Guantanamo Bay, which is governed by the United States.
+
+^ BahamasSome of these deaths may still be under investigation as stated in the Ministry's press release.
+
+^ SyriaExcluding cases from the disputed Golan Heights.
+
+^ CongoAlso known as the Republic of the Congo and not to be confused with the DR Congo.
+
+^ Botswana1,357 people who tested positive have been voluntarily repatriated to their respective countries and are not part of the confirmed case count as a result the Government of Botswana does not include the transferred-out cases.[205]
+
+^ CyprusIncluding the British Overseas Territory of Akrotiri and Dhekelia.Excluding de facto state of Northern Cyprus.
+
+^ a b Guam and USS Theodore Roosevelt Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separately.
+
+^ SomaliaExcluding the de facto state of Somaliland.
+
+^ a b Greg Mortimer and UruguayAlthough currently anchored off the coast of Uruguay, cases for the Greg Mortimer are currently reported separately. Six have been transferred inland for hospitalization.
+
+^ AbkhaziaCases from this de facto state are not counted by Georgia.
+
+^ Charles de GaulleIncluding cases on the escort frigate Chevalier Paul.Florence Parly, Minister of the Armed Forces, reported to the National Assembly's National Defense and Armed Forces Committee [fr] that 2010 sailors of the carrier battle group led by Charles de Gaulle had been tested, with 1081 tests returning positive so far.[250]  Many of these cases were aboard Charles de Gaulle, some of the cases were reportedly aboard French frigate Chevalier Paul, and it is unclear if any other ships in the battle group had cases on board.[251][252][253]
+
+^ SomalilandCases from this de facto state are not counted by Somalia.
+
+^ Northern CyprusCases from this de facto state are not counted by Cyprus.
+
+^ Taiwan1. Including cases from the ROCS Pan Shi.[269]
+
+^ ArtsakhCases from this de facto state are not counted by Azerbaijan.
+
+^ Isle of ManRecoveries are presumed. Defined as ""An individual testing positive for coronavirus who completes the 14 day self-isolation period from the onset of symptoms who is at home on day 15, or an individual who is discharged from hospital following more severe symptoms.""[279]
+
+^ South OssetiaCases from this de facto state are not counted by Georgia.
+
+^ Saint VincentThe sovereign state of Saint Vincent and the Grenadines.
+
+^ Sahrawi Arab Democratic RepublicCases from this de facto state are not counted by Morocco.
+
+^ MS ZaandamIncluding cases from MS Rotterdam.The MS Rotterdam rendezvoused with the Zaandam on 26 March off the coast of Panama City to provide support and evacuate healthy passengers. Both have since docked in Florida.[324][325]MS Zaandam and Rotterdam's numbers are currently not counted in any national figures.
+
+^ Coral PrincessThe cruise ship Coral Princess has tested positive cases since early April 2020 and has since docked in Miami.[329]Coral Princess's numbers are currently not counted in any national figures.
+
+^ HNLMS Dolfijn All 8 cases currently associated with Dolfijn were reported while the submarine was at sea in the waters between Scotland and the Netherlands.[331]It is unclear whether the National Institute for Public Health and the Environment (RIVM) is including these cases in their total count, but neither their daily update details nor their daily epidemiological situation reports appear to have mentioned the ship, with a breakdown of cases listing the twelve provinces of the country of the Netherlands (as opposed to the kingdom) accounting for all the cases in the total count.[332][333]
+
+^ TanzaniaFigures for Tanzania are ""No data"" as the country stopped publishing figures on coronavirus cases on 29 April.[339] Figures as of that date were 509 cases, 21 deaths, and 183 recoveries.[340][341]","Notes
+^ Location: Countries, territories, and international conveyances where cases were diagnosed. The nationality of the infected and the origin of infection may vary. For some countries, cases are split into respective territories and noted accordingly.
+
+^ Cases: This number shows the cumulative number of confirmed human cases reported to date. The actual number of infections and cases is likely to be higher than reported.[7] Reporting criteria and testing capacity vary between locations.
+
+^ Deaths: Reporting criteria vary between locations.
+
+^ Recoveries: May not correspond to actual current figures and not all recoveries may be reported. Reporting criteria vary between locations and some countries do not report recoveries.
+
+^ The worldwide totals for cases, deaths and recoveries are taken from the Johns Hopkins University Coronavirus Resource Center. They are not sums of the figures for the listed countries and territories.
+
+^ United StatesFigures include cases identified on the Grand Princess.Figures do not include the unincorporated territories of Puerto Rico, Guam, Northern Marian Islands, and U.S Virgin Islands, all of which are listed separately.Not all states or overseas territories report recovery data.Cases include clinically diagnosed cases as per CDC guidelines.[8]Recoveries and deaths include probable deaths and people released from quarantine as per CDC guidelines.[9][10][11]Figures from the United States Department of Defense are only released on a branch-by branch basis since April 2020, without distinction between domestic and foreign deployment, and cases may be reported to local health authorities.[12]Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separate from national figures but included in the Navy's totals.There is also one case reported from Guantanamo Bay Naval Base not included in any other nation or territory's counts.[13] Since April 2020, the United States Department of Defense has directed all bases, including Guantanamo Bay, to not publish case statistics.[12]
+
+^ RussiaIncluding cases from the disputed Crimea and Sevastopol.Excluding cases from the Diamond Princess cruise ship, which are classified as ""on an international conveyance"".
+
+^ FranceIncluding overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and collectivities of Saint Barthélemy and Saint Martin.Excluding collectivities of New Caledonia, French Polynesia, Saint Pierre and Miquelon and Wallis and Futuna.Recoveries only include hospitalized cases.[19]Figures for total confirmed cases and total deaths include data from both hospital and nursing home (ESMS: établissements sociaux et médico-sociaux).[19]
+
+^ SpainThe figure for cases excludes serology–confirmed cases.As of 19 May 2020, the Spanish government does not publish the number of recoveries. The last update on 18 May reported 150,376 recovered patients.
+
+^ ArgentinaExcluding confirmed cases on the claimed territory of the Falkland Islands. Since 11 April, the Argentine Ministry of Health includes them in their official reports.[22]
+
+^ United KingdomExcluding all British Overseas Territories and Crown dependencies.As of 23 March 2020, the UK government does not publish the number of recoveries. The last update on 22 March reported 135 recovered patients.[25]
+
+^ GermanyNot all state authorities count recoveries.[34]Recoveries include estimations by the Robert Koch Institute.[34][35]
+
+^ Chile Including the special territory of Easter Island.The Chilean Ministry of Health considered all cases as ""recovered"" after 14 days since the initial symptoms of the virus, no matter the health situation of the infected or if following tests indicate the continuing presence of the virus. The only exception were casualties, which are not included as recovered.[36]Deaths only include cases with positive PCR tests and catalogued as ""COVID-19 related death"" by the Civil Registry and Identification Service. This number is informed on the daily reports of the Ministry of Health. A report with the total number of deaths, including suspected cases without PCR test, is released weekly since 20 June 2020.[37] In the latest report (16 October 2020), the number of total deaths is 18,248.[38]
+
+^ BelgiumThe number of deaths also includes untested cases and cases in retirement homes that presumably died because of COVID-19, whilst most countries only include deaths of tested cases in hospitals.[41]
+
+^ UkraineExcluding cases from the disputed Crimea and Sevastopol. Cases in these territories are included in the Russian total.Excluding cases from the unrecognized Donetsk and Lugansk People's Republics.
+
+^ TurkeySince 29 July, the Ministry of Health has not been publishing the total number of positive cases. Instead, symptomatic coronavirus cases have been being shown as ""patients"".[52]
+
+^ NetherlandsThe Kingdom of the Netherlands consists of a) the Netherlands* [the country as opposed to the kingdom; listed here], which in turn includes the Caribbean Netherlands, that are made up of the special municipalities Bonaire*, Saba* and Sint Eustatius*; b) Aruba*; c) Curaçao*; and d) Sint Maarten*. All regions marked with an asterisk are listed separately.The Dutch Government agency RIVM, responsible for the constituent country the Netherlands, does not count its number of recoveries.[54]
+
+^ IsraelIncluding cases from the disputed Golan Heights.Excluding cases from the Occupied Palestinian Territories.
+
+^ Canada On 17 July 2020, Quebec, Canada, revised its criteria on recoveries. The Institut national de santé publique claims that ""the previous method resulted in 'significant underestimations' of recovered cases.""[63] This change resulted in a drop of active cases nationwide, from a total of 27,603 on 16 July to 4,058 on 17 July.[64]
+
+^ MoroccoIncluding cases in the disputed Western Sahara territory controlled by Morocco.Excluding the de facto state of the Sahrawi Arab Democratic Republic.
+
+^ SwitzerlandRecoveries are estimates by the Tribune de Genève.
+
+^ EgyptIncludes cases identified on the MS River Anuket.
+
+^ a b Diamond Princess and JapanThe British cruise ship Diamond Princess was in Japanese waters, and the Japanese administration was asked to manage its quarantine, with the passengers having not entered Japan. Therefore, this case is included in neither the Japanese nor British official counts. The World Health Organization classifies the cases as being located ""on an international conveyance"".
+
+^ ChinaExcluding 828 asymptomatic cases under medical observation as of 3 November 2020[update].Asymptomatic cases were not reported before 31 March 2020.Excluding Special Administrative Regions of Hong Kong and Macau.
+
+^ MoldovaIncluding the disputed territory of Transnistria.
+
+^ AzerbaijanExcluding the self-declared state of Artsakh.
+
+^ SerbiaExcluding cases from the disputed territory of Kosovo.
+
+^ DenmarkThe autonomous territories of the Faroe Islands and Greenland are listed separately.
+
+^ GeorgiaExcluding the de facto states of Abkhazia and South Ossetia.
+
+^ AustraliaExcluding the cases from Diamond Princess cruise ship which are classified as ""on an international conveyance"". Ten cases, including one fatality recorded by the Australian government.
+
+^ NorwayEstimation of the number of infected:As of 23 March 2020, according to figures from just over 40 per cent of all GPs in Norway, 20,200 patients have been registered with the ""corona code"" R991. The figure includes both cases where the patient has been diagnosed with coronavirus infection through testing, and where the GP has used the ""corona code"" after assessing the patient's symptoms against the criteria by the Norwegian Institute of Public Health.[144]
+As of 24 March 2020, the Norwegian Institute of Public Health estimates that between 7,120 and 23,140 Norwegians are infected with the coronavirus.[145]
+
+
+^ FinlandIncluding the autonomous region of the Åland Islands.The number of recoveries is an estimate based on reported cases which were reported at least two weeks ago and there is no other monitoring data on the course of the disease.[157] The exact number of recoveries is not known, as only a small proportion of patients have been hospitalized.[158]
+
+^ DR CongoThe Democratic Republic of the Congo.
+
+^ a b Donetsk and Luhansk People's RepublicNote that these territories are distinct from the Ukraine-administered regions of the Donetsk and Luhansk Oblasts.
+
+^ CubaIncludes cases on the MS Braemar.Excluding cases from Guantanamo Bay, which is governed by the United States.
+
+^ BahamasSome of these deaths may still be under investigation as stated in the Ministry's press release.
+
+^ SyriaExcluding cases from the disputed Golan Heights.
+
+^ CongoAlso known as the Republic of the Congo and not to be confused with the DR Congo.
+
+^ Botswana1,357 people who tested positive have been voluntarily repatriated to their respective countries and are not part of the confirmed case count as a result the Government of Botswana does not include the transferred-out cases.[205]
+
+^ CyprusIncluding the British Overseas Territory of Akrotiri and Dhekelia.Excluding de facto state of Northern Cyprus.
+
+^ a b Guam and USS Theodore Roosevelt Cases for the USS Theodore Roosevelt, currently docked at Guam, are reported separately.
+
+^ SomaliaExcluding the de facto state of Somaliland.
+
+^ a b Greg Mortimer and UruguayAlthough currently anchored off the coast of Uruguay, cases for the Greg Mortimer are currently reported separately. Six have been transferred inland for hospitalization.
+
+^ AbkhaziaCases from this de facto state are not counted by Georgia.
+
+^ Charles de GaulleIncluding cases on the escort frigate Chevalier Paul.Florence Parly, Minister of the Armed Forces, reported to the National Assembly's National Defense and Armed Forces Committee [fr] that 2010 sailors of the carrier battle group led by Charles de Gaulle had been tested, with 1081 tests returning positive so far.[250]  Many of these cases were aboard Charles de Gaulle, some of the cases were reportedly aboard French frigate Chevalier Paul, and it is unclear if any other ships in the battle group had cases on board.[251][252][253]
+
+^ SomalilandCases from this de facto state are not counted by Somalia.
+
+^ Northern CyprusCases from this de facto state are not counted by Cyprus.
+
+^ Taiwan1. Including cases from the ROCS Pan Shi.[269]
+
+^ ArtsakhCases from this de facto state are not counted by Azerbaijan.
+
+^ Isle of ManRecoveries are presumed. Defined as ""An individual testing positive for coronavirus who completes the 14 day self-isolation period from the onset of symptoms who is at home on day 15, or an individual who is discharged from hospital following more severe symptoms.""[279]
+
+^ South OssetiaCases from this de facto state are not counted by Georgia.
+
+^ Saint VincentThe sovereign state of Saint Vincent and the Grenadines.
+
+^ Sahrawi Arab Democratic RepublicCases from this de facto state are not counted by Morocco.
+
+^ MS ZaandamIncluding cases from MS Rotterdam.The MS Rotterdam rendezvoused with the Zaandam on 26 March off the coast of Panama City to provide support and evacuate healthy passengers. Both have since docked in Florida.[324][325]MS Zaandam and Rotterdam's numbers are currently not counted in any national figures.
+
+^ Coral PrincessThe cruise ship Coral Princess has tested positive cases since early April 2020 and has since docked in Miami.[329]Coral Princess's numbers are currently not counted in any national figures.
+
+^ HNLMS Dolfijn All 8 cases currently associated with Dolfijn were reported while the submarine was at sea in the waters between Scotland and the Netherlands.[331]It is unclear whether the National Institute for Public Health and the Environment (RIVM) is including these cases in their total count, but neither their daily update details nor their daily epidemiological situation reports appear to have mentioned the ship, with a breakdown of cases listing the twelve provinces of the country of the Netherlands (as opposed to the kingdom) accounting for all the cases in the total count.[332][333]
+
+^ TanzaniaFigures for Tanzania are ""No data"" as the country stopped publishing figures on coronavirus cases on 29 April.[339] Figures as of that date were 509 cases, 21 deaths, and 183 recoveries.[340][341]"
